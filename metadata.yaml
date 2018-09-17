@@ -1,0 +1,30 @@
+_repo: The-Medici-Balls-Seven-little-journeys-in-Tuscany_52619
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Newell, Marjorie Moyca
+    alias: Newell, M. Moyca
+    gutenberg_agent_id: '46959'
+    url: http://www.gutenberg.org/2009/agents/46959
+  - agent_name: Sheldon, Anna R.
+    gutenberg_agent_id: '46958'
+    url: http://www.gutenberg.org/2009/agents/46958
+description: ''
+gutenberg_issued: '2016-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52619'
+  lccn: 05005913
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tuscany (Italy) -- Description and travel'
+- !lcc 'DG'
+- GITenberg
+tableOfContents: 'The Mugello -- Prato: a mediæval journey -- Chianti and the Impruneta
+  -- Castruccio Castracane, Lord of Lucca -- Pistoja, "City of Cino" -- A Sunday among
+  the hills of Brancoli -- Barga and the valley of Garfagnana.'
+title: 'The Medici Balls: Seven little journeys in Tuscany'
+url: http://www.gutenberg.org/ebooks/52619
